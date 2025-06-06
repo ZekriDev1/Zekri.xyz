@@ -1,2 +1,2 @@
 # Zekri.xyz
-My New Website check it out httms://zekri.xyz
+My New Website check it out https://zekri.xyz
